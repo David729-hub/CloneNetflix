@@ -8,6 +8,8 @@ namespace ExemploTesteGit
         {
             Console.WriteLine("Exemplo Git!");
             Console.WriteLine("Fizemos o Primeiro Commit!");
+            Console.WriteLine("Fizemos o Primeiro Commit!");
+            Console.WriteLine("Fizemos mais um Commit!");
         }
     }
 }
