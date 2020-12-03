@@ -1,0 +1,2 @@
+Este Projeto da netflix fiz seguindo videos no youtube. 
+Não ficou parecido com o site da Netflix Brasil, mas a minha intenção era de explorar ao máximo o html, css e js.
